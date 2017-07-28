@@ -1,0 +1,211 @@
+h3 {background-color: white;}
+h4 {background-color: white;}
+p1 {background-color: white;}
+h1 {background-color: white;}
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+h2 {font-size: 18px;}
+
+h1 {
+  background-color:white;
+  border-style: solid;
+}
+
+table {background-color: white; border-style: solid black;}
+
+
+
+
+h5 {background-color:white;}
+table {
+  background-color: white;
+border:none;
+border-collapse: collapse;
+}
+
+table td {
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+border-color: grey;
+}
+
+table td:first-child {
+border-left: none;
+}
+
+table td:last-child {
+border-right: none;
+}
+img {border-color: grey;}
+
+.ly { font-size: 50px;font-family: 'Pathway Gothic One', sans-serif; }
+.lw { font-size: 30px; }
+.lt { font-size: 20px; }
+.lp { font-size: 25px; }
+.ls { font-size: 30px; color: darkgreen;}
+.button {height: 70px; width:  320px; font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif,bold; font-size: 25px; border-color: green;}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  padding: 0; background-color: lightgray;
+}
+.lr { font-family: 'PT Sans', sans-serif; }
+
+.lr { font-family: 'PT Sans', sans-serif; }
+}
+
+.ly { font-size: 50px;font-family: 'Pathway Gothic One', sans-serif; }
+.lw { font-size: 30px; }
+.lt { font-size: 20px; }
+.lp { font-size: 25px; }
+.ls { font-size: 30px; color: darkgreen;}
+.button {height: 70px; width:  320px; font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif,bold; font-size: 25px; border-color: green;}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  padding: 0; background-color: lightgray;
+}
+.lr { font-family: 'PT Sans', sans-serif; }
+
+.lr { font-family: 'PT Sans', sans-serif; }
+}
+
+th {font: 20px verdana;
+color: #D6F2AA;}
+td {font: 15px verdana;
+color: #D5D5D5;
+  text-align: center;
+}
+th, td {
+    padding: 15px;
+}
+ul     	     {
+		list-style: none;
+	     }
+
+ul li:before {
+		content: "\2666";
+	     }
+table {
+border:none;
+border-collapse: collapse;
+}
+
+table td {
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+border-color: #grey
+}
+
+table td:first-child {
+border-left: none;
+}
+
+table td:last-child {
+border-right: none;
+}
+th {font: 20px verdana;
+color: green;}
+td {font: 15px verdana;
+color: grey;
+  text-align: center;
+}
+th, td {
+    padding: 15px;
+}
+ul     	     {
+		list-style: none;
+	     }
+
+ul li:before {
+		content: "\2666";
+	     }
+table {
+border:none;
+border-collapse: collapse;
+}
+
+table td {
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+border-color: grey;
+}
+
+table td:first-child {
+border-left: none;
+}
+
+table td:last-child {
+border-right: none;
+}
+img {border-color: grey;}
+
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+p {font-size: 20px;}
+h3 {font-size: 30px;}
+
